@@ -5,7 +5,7 @@
 ```
 
 ```bash
-🐢 Bot detecta **Canales**
+🐢 Bot detecta Canales
 ```
 
 # API WHATSAPP - BOT
