@@ -20,4 +20,14 @@
 
 ---
 
+> [!WARNING]
+> Este baileys es Para detectar WhatsApp Bot en Canales.
+
+---
+
+> [!TIP]
+> Baileys Channels
+
+---
+
 # API WHATSAPP - BOT
