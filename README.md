@@ -1,4 +1,4 @@
-# Bailey WhatsApp - Apis
+## Bailey WhatsApp - Apis
 
 ```bash
 🪐 WhatsApp Bot.
