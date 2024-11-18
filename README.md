@@ -1,21 +1,21 @@
 ## Bailey WhatsApp - Apis
 
 ```bash
-🪐 WhatsApp Bot.
+# 🪐 WhatsApp Bot.
 ```
 
 ```bash
-🐢 Bot detecta Canales
+# 🐢 Bot detecta Canales
 ```
 
 ---
 
 ```bash
-🦋 Api WaBot
+# 🦋 Api WaBot
 ```
 
 ```bash
-🚀 Velocidad Perfecta
+# 🚀 Velocidad Perfecta
 ```
 
 ---
