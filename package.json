@@ -1,7 +1,7 @@
 {
-  "name": "@nstar/baileys",
+  "name": "@Dev-Diego/Bailey",
   "version": "6.7.5",
-  "description": "WhatsApp API",
+  "description": "Baileys Bot WhatsApp",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/nstar-y/Bail",
+  "homepage": "https://github.com/Dev-Diego/Bailey",
   "repository": {
-    "url": "git+ssh://git@github.com/nstar-y/Bail.git"
+    "url": "git+ssh://git@github.com/Dev-Diego/Bailey.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
